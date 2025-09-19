@@ -25,6 +25,17 @@ Functions:
 | Nastya                   | `divide(x, y)`   | division with zero check, kitty is safe 🐈          |
 | Lisa                     | `main()`         | kept everyone in line, purr-purr  😹 |
 
+
+### At the beginnig
+![1](imgs/before.jpg)
+
+### During the process
+![1](imgs/us.jpg)
+
+### At the end
+![1](imgs/after.jpg)
+
+
 Господи прости меня
 
 ![Bomb](imgs/bomb.gif)
