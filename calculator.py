@@ -1,6 +1,12 @@
 def slo(x,y):
   return x+y
 
+def divide(x, y):
+    if y == 0:
+        return "Деление на ноль не допустимо"
+    else:
+        return x / y
+      
 def main():
   calc = input("Введите ваше выражение (например: 5 - 3): ")
   parts = calc.split()
