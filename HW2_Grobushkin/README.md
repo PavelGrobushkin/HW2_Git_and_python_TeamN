@@ -27,3 +27,4 @@ Functions:
 
 Господи прости меня
 
+![Bomb](imgs/bomb.gif)
